@@ -3,10 +3,6 @@
 def datos_francisco():
  print("Mi nombre es Francisco y tengo 19 años")
 
-def datos_ronald():
- print("Mi nombre es Ronald Silva y tengo 22 años")
-
-
 
 while True:
  print("\n--- MENÚ PRINCIPAL ---")
